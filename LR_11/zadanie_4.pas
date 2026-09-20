@@ -1,0 +1,37 @@
+﻿uses GraphABC;
+begin
+  circle(320,250,10);
+  circle(320,250,20);
+  circle(320,250,30);
+  circle(320,250,40);
+  circle(320,250,50);
+  circle(320,250,60);
+  circle(320,250,70);
+  circle(320,250,80);
+  circle(320,250,90);
+  circle(320,250,100);
+  circle(320,250,110);
+  circle(320,250,120);
+  circle(320,250,130);
+  circle(320,250,140);
+  circle(320,250,150);
+  circle(320,250,160);
+  circle(320,250,170);
+  circle(320,250,180);
+  circle(320,250,190);
+  circle(320,250,200);
+  circle(320,250,210);
+  circle(320,250,220);
+  circle(320,250,230);
+  circle(320,250,240);
+  circle(320,250,250);
+  circle(320,250,260);
+  circle(320,250,270);
+  circle(320,250,280);
+  circle(320,250,290);
+  circle(320,250,300);
+  circle(320,250,310);
+  circle(320,250,320);
+  circle(320,250,330);
+  circle(320,250,340);
+end.
